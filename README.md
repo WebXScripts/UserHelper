@@ -1,7 +1,7 @@
 # UserHelper
 ###
 ### Requirements:
-- PHP 7.2+
+- PHP 7.0+
 
 ### Run (debug): 
 ```bash
