@@ -1,10 +1,17 @@
 # UserHelper
+###
 ### Requirements:
 - PHP 7.2+
 
 ### Run (debug): 
+```bash
 php bot.php
+```
 ### Run (screen): 
+```bash
 screen -AmdS userhelper php bot.php
+```
 ### Quit (screen): 
+```bash
 screen -X -S userhelper quit
+```
