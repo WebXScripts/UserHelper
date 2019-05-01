@@ -15,3 +15,5 @@ screen -AmdS userhelper php bot.php
 ```bash
 screen -X -S userhelper quit
 ```
+### IMPORTANT!
+### BOT IS IN POLISH LANGUAGE!
